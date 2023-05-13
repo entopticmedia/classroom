@@ -11,6 +11,7 @@ replicate = "^0.4.0"
 openai = "^0.25.0"
 python-dotenv = "^0.21.0"
 jupyter-kernel-gateway = "^2.5.1"
+sqlalchemy = "^2.0.13"
 
 [tool.poetry.dev-dependencies]
 
