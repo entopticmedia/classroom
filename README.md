@@ -80,3 +80,11 @@ In the first step you should locally modify your source code and push it to the 
 ### Reloading the service on the server
 Once logged into the server, navigate to the repository and ```git pull``` your changes. Then you can run the updated version of your code by restarting the systemd service via ```systemctl restart <service name>```.
 
+## Changelog
+
+| Last commit                              | Description                                                                 |
+|------------------------------------------|-----------------------------------------------------------------------------|
+| 3eecd1c0c5e9d5d707a109f26ee34dca27264efc | Reworked replicate Python SDK usage due to Replicate's breaking API changes |
+| 9e7791ee69a12c571423b0fd6fc60406839c278d | Initial version of Classroom backend                                        |
+| bffecd99a959174ae329eda65c6e00a1aa9b6262 | Initial Commit                                                              |
+
